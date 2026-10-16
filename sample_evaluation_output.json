@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "test_id": "T09",
+      "expected_tools": [
+        "check_offer",
+        "get_my_terms"
+      ],
+      "observed_tools": [
+        "get_my_terms",
+        "check_offer"
+      ],
+      "missing_expected_tools": [],
+      "prohibited_tool_calls": [],
+      "response_check_failures": [],
+      "argument_check_failures": [],
+      "score": 100.0,
+      "passed": true
+    }
+  ],
+  "mean_score": 100.0,
+  "passed": 1,
+  "total": 1
+}

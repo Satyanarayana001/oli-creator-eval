@@ -1,0 +1,9 @@
+{
+  "test_id": "T09",
+  "source": "Sanitized summary of Task 1 fictional LearnPro offer test; not a verbatim transcript export.",
+  "tool_calls": [
+    "get_my_terms",
+    "check_offer"
+  ],
+  "assistant_text": "The offer matches the education category and one YouTube Short, but paid advertising conflicts with the creator's Only on my channel preference. Exclusivity and revision count need clarification. The minimum fee remains private. No deal was saved or marked agreed."
+}
